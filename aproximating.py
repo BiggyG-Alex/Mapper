@@ -64,4 +64,95 @@ for even in range(0, 101, 2):
 #   The first two numbers in the sequence are 1 and 1.  Compute the 10th
 #   Fibonacci number.
 # Write a function to compute the Nth Fibonacci number, where N is a parameter.
-#   You may assume that N will be greater than or equal to 3.
+#   You may assume that N will be greater than
+
+def montePi(numDarts) :
+
+
+    inCircle = 0
+
+    for i in range(numDarts):
+        x = random.random()
+        y = random.random()
+
+        distance = math.sqrt(x**2 + y**2)
+
+        if distance <= 1:
+            inCircle = inCircle + 1
+
+    pi = inCircle / numDarts * 4
+    return pi
+
+print(montePi(1000))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
