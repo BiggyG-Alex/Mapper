@@ -65,8 +65,13 @@ for even in range(0, 101, 2):
 #   Fibonacci number.
 # Write a function to compute the Nth Fibonacci number, where N is a parameter.
 #   You may assume that N will be greater than
+import random
 
-def montePi(numDarts) :
+print(random.random())
+
+
+
+def montePi(numDarts):
 
 
     inCircle = 0
@@ -83,10 +88,55 @@ def montePi(numDarts) :
     pi = inCircle / numDarts * 4
     return pi
 
-print(montePi(1000))
+print(montePi(10000))
+
+import turtle
 
 
+def montePi(numDarts):
+    scn = turtle.Screen()
+    t = turtle.Turtle()
 
+    scn.setworldcoordinates(-2, -2, 2, 2)
+
+    t.penup()
+    t.goto(-1, 0)
+    t.pendown()
+    t.goto(1,0)
+
+    t.penup()
+    t.goto(0, 1)
+    t.pendown()
+    t.goto(0, -1)
+
+    inCircle = 0
+    t.penup()
+
+
+    for i in range(numDarts):
+        x = random.randrange(-100, 100) / 100
+        y = random.randrange(-100, 100) / 100
+
+        distance = math.sqrt(x ** 2 + y ** 2)
+        t.goto(x, y)
+
+        if distance <= 1:
+            inCircle = inCircle + 1
+            t.color("blue")
+        else :
+            t.color("black")
+
+        t.dot()
+
+    pi = inCircle / numDarts * 4
+    scn.exitonclick()
+    return pi
+
+print(montePi(10000))
+
+
+# Assignment: modify the simulation to plot points in the entire circle
+#   You will have to adjust the calculated value for pi accordingly
 
 
 

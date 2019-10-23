@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2abeb130-c323-4ca2-a4ee-f0417f953b3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aproximating.py" beforeDir="false" afterPath="$PROJECT_DIR$/aproximating.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571171204571</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="montePi has just been added">
+      <created>1571776125991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571776125991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +132,7 @@
     <MESSAGE value="part 1 of the approximating journey" />
     <MESSAGE value="part 2 of the approximating journey" />
     <MESSAGE value="part 3 of the approximating journey now accumulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 3 of the approximating journey now accumulation" />
+    <MESSAGE value="montePi has just been added" />
+    <option name="LAST_COMMIT_MESSAGE" value="montePi has just been added" />
   </component>
 </project>
