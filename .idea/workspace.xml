@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2abeb130-c323-4ca2-a4ee-f0417f953b3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Codes and stringy things.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes and stringy things.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571948886575</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Now i am at indexing">
+      <created>1571949131412</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571949131412</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +200,7 @@
     <MESSAGE value="montePi has just been added" />
     <MESSAGE value="First commit for strings and connects with them :-)" />
     <MESSAGE value="second commit for strings and connects with them :-) i have written row Your boat with Mr.Black" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit for strings and connects with them :-) i have written row Your boat with Mr.Black" />
+    <MESSAGE value="Now i am at indexing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now i am at indexing" />
   </component>
 </project>

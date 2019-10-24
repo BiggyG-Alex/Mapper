@@ -32,3 +32,26 @@ rowYourBoat()
 name = "Roy G Biv"
 firstChar = name[0]
 print(firstChar)
+
+middleCharIndex = len(name) // 2
+print(middleCharIndex)
+print(name[middleCharIndex])
+print(name[-3])
+
+for i in range(0, len(name)):
+    print(name[i])
+
+# Slicing and dicing
+
+print(name[-4:8])
+
+for i in range(0, len(name)+1):
+    print(name[0:i])
+
+# SEARCHING
+
+print("Biv" in name)
+
+
+if "y" not in name:
+print("y" not in name)
