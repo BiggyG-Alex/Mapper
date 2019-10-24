@@ -14,7 +14,7 @@ lastFirst = lastName + ", " + firstName
 print(lastFirst)
 
 # Repetition
-#   repitition opperator
+#   repetition operator is * it is multiplication
 
 print("Hip "*2 + "Hooray!")
 
@@ -25,3 +25,10 @@ def rowYourBoat():
     print("Life is but a dream")
 
 rowYourBoat()
+
+
+# Indexing
+
+name = "Roy G Biv"
+firstChar = name[0]
+print(firstChar)
