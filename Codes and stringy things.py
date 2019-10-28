@@ -54,4 +54,8 @@ print("Biv" in name)
 
 
 if "y" not in name:
-print("y" not in name)
+    print("y" not in name)
+
+# Character functions
+
+print(chr(75))
