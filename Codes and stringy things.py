@@ -59,3 +59,9 @@ if "y" not in name:
 # Character functions
 
 print(chr(75))
+print(ord('&'))
+
+from Mapper import *
+print(LetterToindex('j'))
+
+print(indexToLetter(44))

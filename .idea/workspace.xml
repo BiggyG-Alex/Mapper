@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2abeb130-c323-4ca2-a4ee-f0417f953b3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codes and stringy things.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes and stringy things.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Mapper">
+  <component name="RunManager" selected="Python.Codes and stringy things">
     <configuration name="Bcodes and stuff" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="aproximating" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,8 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Mapper" />
         <item itemvalue="Python.Codes and stringy things" />
+        <item itemvalue="Python.Mapper" />
         <item itemvalue="Python.Bcodes and stuff" />
         <item itemvalue="Python.aproximating" />
       </list>
@@ -226,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572294721841</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="mapper definitions first">
+      <created>1572295563824</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572295563824</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +259,7 @@
     <MESSAGE value="Now i am at indexing" />
     <MESSAGE value="i am now at the characters and indexing stage" />
     <MESSAGE value="mapper stage boi" />
-    <option name="LAST_COMMIT_MESSAGE" value="mapper stage boi" />
+    <MESSAGE value="mapper definitions first" />
+    <option name="LAST_COMMIT_MESSAGE" value="mapper definitions first" />
   </component>
 </project>
