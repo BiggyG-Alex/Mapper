@@ -65,3 +65,6 @@ from Mapper import *
 print(LetterToindex('j'))
 
 print(indexToLetter(44))
+
+from Krypto import *
+print(scramble2Encrypt("My favorite color is cheese"))
