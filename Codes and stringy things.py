@@ -68,3 +68,4 @@ print(indexToLetter(44))
 
 from Krypto import *
 print(scramble2Encrypt("My favorite color is cheese"))
+print(scramble2Decrypt("M aoieclri hesM aoieclri hee"))
