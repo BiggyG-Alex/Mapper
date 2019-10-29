@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2abeb130-c323-4ca2-a4ee-f0417f953b3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Krypto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codes and stringy things.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codes and stringy things.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Krypto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Krypto.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,8 +146,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Codes and stringy things" />
         <item itemvalue="Python.Krypto" />
+        <item itemvalue="Python.Codes and stringy things" />
         <item itemvalue="Python.Mapper" />
         <item itemvalue="Python.Bcodes and stuff" />
         <item itemvalue="Python.aproximating" />
@@ -257,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572295563824</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="encryption day 1 first commit">
+      <created>1572381316003</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1572381316003</updated>
+    </task>
+    <task id="LOCAL-00015" summary="encryption day 1 first commit">
+      <created>1572381336254</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572381336254</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +297,7 @@
     <MESSAGE value="i am now at the characters and indexing stage" />
     <MESSAGE value="mapper stage boi" />
     <MESSAGE value="mapper definitions first" />
-    <option name="LAST_COMMIT_MESSAGE" value="mapper definitions first" />
+    <MESSAGE value="encryption day 1 first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="encryption day 1 first commit" />
   </component>
 </project>
